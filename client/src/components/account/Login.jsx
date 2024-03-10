@@ -128,7 +128,7 @@ const Login = ({ isUserAuthenticated }) => {
             <Box >
                 <Image src='https://dypdvfcjkqkg2.cloudfront.net/large/5646617-7370.png' alt='login' />
                 <Text style={{ textAlign: 'center' }}> Blog </Text>
-                <Text style={{ textAlign: 'center' }}>Create Ypur own Space </Text>
+                <Text style={{ textAlign: 'center' }}>Create Your own Space </Text>
                 {
                     account == 'login' ?
                         <Wrapper>
